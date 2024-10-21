@@ -1,0 +1,51 @@
+.nav{
+    display: flex;
+    /* background-color: wheat; */
+    justify-content: space-between;
+    /* gap: 10px; */
+}
+
+.f1{
+/* text-decoration: underline brown; */
+text-align: center;
+/* font-style: italic; */
+font-size: 40px;
+}
+
+.form1{
+    margin: 0 10px;
+    background-color: wheat;
+    border-radius: 10px;
+    
+}
+
+.b1{
+    color: brown;
+    /* background-color: burlywood; */
+}
+
+.para1{
+    font-size: 20px;
+    text-align: justify;
+    padding: 0 5px;
+}
+
+.img{
+    width: 80%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.card1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+
+.carasoul{
+    width: 70%;
+    margin: auto;
+    height: auto;
+    border-radius: 20px;
+}
